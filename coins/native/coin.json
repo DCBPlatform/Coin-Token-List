@@ -2,5 +2,8 @@
     "id": "dcb_exchange",
     "protocolId": "888",
     "name": "DCB",
-    "decimal": 12
+    "decimal": 12,
+    "endpoints": [
+        "wss://1.dcb.my"
+    ]
 }
