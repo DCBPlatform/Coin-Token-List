@@ -1,8 +1,0 @@
-{
-    "name": "Name",
-    "symbol": "Symbol",
-    "type": "ERC20",
-    "minter": true,
-    "burner": true,
-    "pauser": true
-}
